@@ -1,0 +1,233 @@
+[
+    {
+      "titulo": "O Poderoso Chefão",
+      "diretor": "Francis Ford Coppola",
+      "ano": 1972
+    },
+    {
+      "titulo": "Pulp Fiction: Tempo de Violência",
+      "diretor": "Quentin Tarantino",
+      "ano": 1994
+    },
+    {
+      "titulo": "Interestelar",
+      "diretor": "Christopher Nolan",
+      "ano": 2014
+    },
+    {
+      "titulo": "Matrix",
+      "diretor": "Lana Wachowski, Lilly Wachowski",
+      "ano": 1999
+    },
+    {
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "diretor": "Peter Jackson",
+      "ano": 2001
+    },
+    {
+      "titulo": "Clube da Luta",
+      "diretor": "David Fincher",
+      "ano": 1999
+    },
+    {
+      "titulo": "Forrest Gump: O Contador de Histórias",
+      "diretor": "Robert Zemeckis",
+      "ano": 1994
+    },
+    {
+      "titulo": "A Origem",
+      "diretor": "Christopher Nolan",
+      "ano": 2010
+    },
+    {
+      "titulo": "Gladiador",
+      "diretor": "Ridley Scott",
+      "ano": 2000
+    },
+    {
+      "titulo": "Titanic",
+      "diretor": "James Cameron",
+      "ano": 1997
+    },
+    {
+      "titulo": "Os Infiltrados",
+      "diretor": "Martin Scorsese",
+      "ano": 2006
+    },
+    {
+      "titulo": "O Cavaleiro das Trevas",
+      "diretor": "Christopher Nolan",
+      "ano": 2008
+    },
+    {
+      "titulo": "Os Bons Companheiros",
+      "diretor": "Martin Scorsese",
+      "ano": 1990
+    },
+    {
+      "titulo": "Um Sonho de Liberdade",
+      "diretor": "Frank Darabont",
+      "ano": 1994
+    },
+    {
+      "titulo": "O Silêncio dos Inocentes",
+      "diretor": "Jonathan Demme",
+      "ano": 1991
+    },
+    {
+      "titulo": "Cidadão Kane",
+      "diretor": "Orson Welles",
+      "ano": 1941
+    },
+    {
+      "titulo": "A Lista de Schindler",
+      "diretor": "Steven Spielberg",
+      "ano": 1993
+    },
+    {
+      "titulo": "Os Sete Samurais",
+      "diretor": "Akira Kurosawa",
+      "ano": 1954
+    },
+    {
+      "titulo": "Casablanca",
+      "diretor": "Michael Curtiz",
+      "ano": 1942
+    },
+    {
+      "titulo": "O Iluminado",
+      "diretor": "Stanley Kubrick",
+      "ano": 1980
+    },
+    {
+      "titulo": "A Vida é Bela",
+      "diretor": "Roberto Benigni",
+      "ano": 1997
+    },
+    {
+      "titulo": "Os Imperdoáveis",
+      "diretor": "Clint Eastwood",
+      "ano": 1992
+    },
+    {
+      "titulo": "Django Livre",
+      "diretor": "Quentin Tarantino",
+      "ano": 2012
+    },
+    {
+      "titulo": "Parque dos Dinossauros",
+      "diretor": "Steven Spielberg",
+      "ano": 1993
+    },
+    {
+      "titulo": "O Exterminador do Futuro 2: O Julgamento Final",
+      "diretor": "James Cameron",
+      "ano": 1991
+    },
+    {
+      "titulo": "A Rede Social",
+      "diretor": "David Fincher",
+      "ano": 2010
+    },
+    {
+      "titulo": "O Grande Lebowski",
+      "diretor": "Joel Coen, Ethan Coen",
+      "ano": 1998
+    },
+    {
+      "titulo": "Scarface",
+      "diretor": "Brian De Palma",
+      "ano": 1983
+    },
+    {
+      "titulo": "Blade Runner: O Caçador de Andróides",
+      "diretor": "Ridley Scott",
+      "ano": 1982
+    },
+    {
+      "titulo": "A Bela e a Fera",
+      "diretor": "Gary Trousdale, Kirk Wise",
+      "ano": 1991
+    },
+    {
+      "titulo": "O Resgate do Soldado Ryan",
+      "diretor": "Steven Spielberg",
+      "ano": 1998
+    },
+    {
+      "titulo": "Os Caça-Fantasmas",
+      "diretor": "Ivan Reitman",
+      "ano": 1984
+    },
+    {
+      "titulo": "O Sexto Sentido",
+      "diretor": "M. Night Shyamalan",
+      "ano": 1999
+    },
+    {
+      "titulo": "Apollo 13: Do Desastre ao Triunfo",
+      "diretor": "Ron Howard",
+      "ano": 1995
+    },
+    {
+      "titulo": "A Felicidade Não se Compra",
+      "diretor": "Frank Capra",
+      "ano": 1946
+    },
+    {
+      "titulo": "O Grande Ditador",
+      "diretor": "Charles Chaplin",
+      "ano": 1940
+    },
+    {
+      "titulo": "O Labirinto do Fauno",
+      "diretor": "Guillermo del Toro",
+      "ano": 2006
+    },
+    {
+      "titulo": "Laranja Mecânica",
+      "diretor": "Stanley Kubrick",
+      "ano": 1971
+    },
+    {
+      "titulo": "O Rei Leão",
+      "diretor": "Roger Allers, Rob Minkoff",
+      "ano": 1994
+    },
+    {
+      "titulo": "Touro Indomável",
+      "diretor": "Martin Scorsese",
+      "ano": 1980
+    },
+    {
+      "titulo": "E.T.: O Extraterrestre",
+      "diretor": "Steven Spielberg",
+      "ano": 1982
+    },
+    {
+      "titulo": "Psicose",
+      "diretor": "Alfred Hitchcock",
+      "ano": 1960
+    },
+    {
+      "titulo": "2001: Uma Odisseia no Espaço",
+      "diretor": "Stanley Kubrick",
+      "ano": 1968
+    },
+    {
+      "titulo": "Os Suspeitos",
+      "diretor": "Bryan Singer",
+      "ano": 1995
+    },
+    {
+      "titulo": "O Lobo de Wall Street",
+      "diretor": "Martin Scorsese",
+      "ano": 2013
+    },
+    {
+      "titulo": "Cidade de Deus",
+      "diretor": "Fernando Meirelles, Kátia Lund",
+      "ano": 2002
+    }
+  ]
+  
